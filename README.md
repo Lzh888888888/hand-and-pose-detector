@@ -1,3 +1,2 @@
-Made by bolt.new AI
-\nUse python program language 
+Made by bolt.new AI,use python program language 
 
